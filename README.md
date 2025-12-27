@@ -194,7 +194,7 @@ If i later decide to build a UI, it can sit on top of the same outputs, but itâ€
 ### Dashboard Screenshots
 
 #### Nootbook Based Main Dashboard
-![Dashboard Overview](img\dashboard.png)
+![Dashboard Overview](img/dashboard.png)
 
 <!--
 #### Main Dashboard
